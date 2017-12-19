@@ -1,0 +1,64 @@
+body{
+font-size: 22px;
+margin: 0 5%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.portrait {
+  margin: 0 auto;
+  text-align: center;
+}
+
+img {
+  /*padding: 0 30%;*/
+  width: 60%;
+}
+
+.dontLike{
+}
+
+ul {
+  list-style-type: square;
+}
+
+.like {
+  /*display: inline-block;
+  float: right;*/
+}
+
+.definitionTable {
+  text-align: center;
+  /*margin: 0 auto;*/
+  /*text-align: center;*/
+}
+
+.timetable {
+  padding: 30px 0;
+}
+
+table {
+  width: 75%;
+  margin: 0 auto;
+  border-collapse: collapse; /*colapsa los bordes de los th y td con los de la tabla*/
+}
+th, td {
+  border: 1px solid black;
+}
+th {
+  height:45px;
+  text-align: center;
+  background-color: blue;
+  font-size: 23px;
+}
+td {
+  height: 75px;
+  text-align: center;
+  text-indent: 5px;
+}
+
+.internalhref {
+  float: right;
+}
